@@ -1,0 +1,12 @@
+venv/
+.venv/
+..venv/
+settings.json
+__pycache__/
+build/
+dist/
+.ruff_cache/
+data/
+*.db
+target/
+*.lock
